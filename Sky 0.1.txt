@@ -1,8 +1,8 @@
 **Patch/Changes 0.0.1** *(Skyblock)*
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: Modified Server's Economy slightly
-:loading: Modified Chat Games a little bit
+:loading: Modified Server's economy.
+:loading: Modified Chat Games rewards.
 :loading: 
 :loading: 
 :loading: 
