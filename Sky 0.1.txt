@@ -2,7 +2,7 @@
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: Modified Server's Economy slightly
-:loading: 
+:loading: Modified Chat Games a little bit
 :loading: 
 :loading: 
 :loading: 
