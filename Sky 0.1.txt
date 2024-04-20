@@ -4,7 +4,7 @@
 :loading: Modified Server's economy.
 :loading: Modified Chat Games rewards.
 :loading: Added in **Custom Enchantments**, **Alchemist** and **Tinkerer** System.
-:loading: 
+:loading: Added **Command Whitelist** Method to avoid bedrock player crashes.
 :loading: 
 :loading: 
 :loading: 
