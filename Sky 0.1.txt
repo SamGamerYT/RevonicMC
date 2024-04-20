@@ -5,8 +5,8 @@
 :loading: Modified Chat Games rewards.
 :loading: Added in **Custom Enchantments**, **Alchemist** and **Tinkerer** System.
 :loading: Added **Command Whitelist** Method to avoid bedrock player crashes.
-:loading: Modified **"/is upgrades"** prices
-:loading: Fixed a bunch of errors and placeholder glitches in **"/is cp"**
+:loading: Modified **"/is upgrades"** prices.
+:loading: Fixed a bunch of errors and placeholder glitches in **"/is cp"**.
 :loading: 
 :loading: 
 :loading: 
