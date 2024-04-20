@@ -3,7 +3,7 @@
 :loading: [QOL] 
 :loading: Modified Server's economy.
 :loading: Modified Chat Games rewards.
-:loading: 
+:loading: Added in **Custom Enchantments**, **Alchemist** and **Tinkerer** System.
 :loading: 
 :loading: 
 :loading: 
