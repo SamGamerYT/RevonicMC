@@ -1,6 +1,4 @@
 **Patch/Changes 0.0.1** *(Skyblock)*
-:loading: [QOL] 
-:loading: [QOL] 
 :loading: Modified Server's economy.
 :loading: Modified Chat Games rewards.
 :loading: Added in **Custom Enchantments**, **Alchemist** and **Tinkerer** System.
@@ -10,8 +8,5 @@
 :loading: PvP Portal is now working properly at **Spawn Zone**
 :loading: Added "/welcome" command (Welcomes new players and gives you rewards for doing so)
 :loading: Added **"PvP Zone"** Holograms and Envoy's countdown
-:loading: 
-:loading: 
-:loading: 
  
 **[@Changelogs]**
