@@ -1,7 +1,7 @@
 **Patch/Changes 0.0.2** *(Skyblock)*
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: 
+:loading: Modified **"/tags"** Layout, GUI and messages
 :loading: 
 :loading: 
 :loading: 
