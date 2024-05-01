@@ -4,7 +4,7 @@
 :loading: Modified **"/tags"** Layout, GUI and messages
 :loading: Island Levels is now displayed in Chat Message
 :loading: Modified Dropped items name and Stacked Spawners name
-:loading: 
+:loading: Fixed an issue with "/welcome" command throwing errors
 :loading: 
 :loading: 
 :loading: 
