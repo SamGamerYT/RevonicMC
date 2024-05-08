@@ -7,7 +7,8 @@
 :loading: Fixed an issue with "/welcome" command throwing errors
 :loading: Disabled "/sethome" and "/fly" command in PvP Zone
 :loading: "/is upgrades" has been fixed
-:loading: 
+:loading: Increased **Hopper Limit** from **8** to **14**
+:loading: Increased **Minecart Limit** from **4** to **10**
 :loading: 
 :loading: 
 :loading: 
