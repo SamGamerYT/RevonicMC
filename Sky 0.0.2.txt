@@ -5,8 +5,8 @@
 :loading: Island Levels is now displayed in Chat Message
 :loading: Modified Dropped items name and Stacked Spawners name
 :loading: Fixed an issue with "/welcome" command throwing errors
-:loading: 
-:loading: 
+:loading: Disabled "/sethome" and "/fly" command in PvP Zone
+:loading: "/is upgrades" has been fixed
 :loading: 
 :loading: 
 :loading: 
