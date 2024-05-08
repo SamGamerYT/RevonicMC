@@ -9,7 +9,7 @@
 :loading: "/is upgrades" has been fixed
 :loading: Increased **Hopper Limit** from **8** to **14**
 :loading: Increased **Minecart Limit** from **4** to **10**
-:loading: 
+:loading: Fixed "/fish bag" GUI Deleting items from the bottom row
 :loading: 
 :loading: 
 :loading: 
