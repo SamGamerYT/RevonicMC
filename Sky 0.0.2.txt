@@ -1,6 +1,4 @@
 **Patch/Changes 0.0.2** *(Skyblock)*
-:loading: [QOL] 
-:loading: [QOL] 
 :loading: Modified **"/tags"** Layout, GUI and messages
 :loading: Island Levels is now displayed in Chat Message
 :loading: Modified Dropped items name and Stacked Spawners name
@@ -10,9 +8,5 @@
 :loading: Increased **Hopper Limit** from **8** to **14**
 :loading: Increased **Minecart Limit** from **4** to **10**
 :loading: Fixed "/fish bag" GUI Deleting items from the bottom row
-:loading: 
-:loading: 
-:loading: 
-:loading: 
  
 **[@Changelogs]**
