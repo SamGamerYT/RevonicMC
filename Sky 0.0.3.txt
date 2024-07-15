@@ -2,18 +2,7 @@
 :loading: [QOL] Allowed Connection to **1.21** Java Players.
 :loading: [QOL] Added **Trading System**, Allowing smoother experience.
 :loading: [QOL] Experimental feature enabled to ensure Geyser stay operative.
-:loading: [QOL] 
-:loading: [QOL] 
-:loading: [QOL] 
 :loading: Dependencies been updated. [7/15/2024]
 :loading: Disabled double damage hologram sign.
-:loading: 
-:loading: 
-:loading: 
-:loading: 
-:loading: 
-:loading: 
-:loading: 
-:loading: 
  
 **[@Changelogs]**
