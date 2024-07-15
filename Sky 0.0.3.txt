@@ -1,7 +1,7 @@
 **Patch/Changes 0.0.3** *(Skyblock)*
-:loading: [QOL] Allowed Connection to **1.21** Java Players
-:loading: [QOL] 
-:loading: [QOL] 
+:loading: [QOL] Allowed Connection to **1.21** Java Players.
+:loading: [QOL] Added **Trading System**, Allowing smoother experience.
+:loading: [QOL] Disabled double damage hologram sign.
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
