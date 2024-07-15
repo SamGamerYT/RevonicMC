@@ -1,7 +1,7 @@
 **Patch/Changes 0.0.3** *(Skyblock)*
 :loading: [QOL] Allowed Connection to **1.21** Java Players.
 :loading: [QOL] Added **Trading System**, Allowing smoother experience.
-:loading: [QOL] 
+:loading: [QOL] Experimental feature enabled to ensure Geyser stay operative.
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
