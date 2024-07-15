@@ -1,5 +1,5 @@
 **Patch/Changes 0.0.3** *(Skyblock)*
-:loading: [QOL] 
+:loading: [QOL] Allowed Connection to **1.21** Java Players
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
