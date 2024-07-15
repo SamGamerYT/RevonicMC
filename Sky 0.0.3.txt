@@ -1,8 +1,10 @@
 **Patch/Changes 0.0.3** *(Skyblock)*
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: 
-:loading: 
+:loading: [QOL] 
+:loading: [QOL] 
+:loading: [QOL] 
+:loading: [QOL] 
 :loading: 
 :loading: 
 :loading: 
