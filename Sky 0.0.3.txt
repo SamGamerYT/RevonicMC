@@ -2,7 +2,7 @@
 :loading: [QOL] Allowed Connection to **1.21** Java Players.
 :loading: [QOL] Added **Trading System**, Allowing smoother experience.
 :loading: [QOL] Disabled double damage hologram sign.
-:loading: [QOL] 
+:loading: [QOL] Dependencies been updated. [7/15/2024]
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: 
