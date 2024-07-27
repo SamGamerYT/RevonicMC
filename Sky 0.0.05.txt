@@ -1,6 +1,8 @@
 **Patch/Changes 0.0.05** *(Skyblock)*
 :loading: [QOL] 
-:loading: [QOL] 
+
+*(Special thanks to YuxuFG)*
+:loading: [QOL] Created Toddler, Novice, Rookie, Regular Rank kits
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
