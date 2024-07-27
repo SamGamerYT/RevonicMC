@@ -1,4 +1,6 @@
-**Patch/Changes 0.0.4** *(Skyblock)*
+**Patch/Changes 0.0.05** *(Skyblock)*
+:loading: [QOL] 
+:loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
