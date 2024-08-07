@@ -3,10 +3,11 @@
 
 *(Special thanks to YuxuFG)*
 :loading: [QOL] Created Toddler, Novice, Rookie, Regular Rank kits
+
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: 
+:loading: **Water Rank** has the ability to rankup **Player Vaults**
 :loading: 
 :loading: 
 :loading: 
