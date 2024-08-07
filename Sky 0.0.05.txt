@@ -9,7 +9,7 @@
 :loading: [QOL] 
 :loading: **Ice Rank** and **Baron Rankup** has the ability to upgrade **Homes Vaults**
 :loading: **Water Rank** and **Mage Rankup** has the ability to upgrade **Player Vaults**
-:loading: 
+:loading: You are now able to **Upgrade** your **homes limit**
 :loading: 
 :loading: 
 :loading: 
