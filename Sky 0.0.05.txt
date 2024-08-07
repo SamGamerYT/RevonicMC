@@ -7,7 +7,8 @@
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: **Water Rank** has the ability to rankup **Player Vaults**
+:loading: **Water Rank** has the ability to upgrade **Player Vaults**
+:loading: **Mage Rankup** has the ability to upgrade **Player Vaults**
 :loading: 
 :loading: 
 :loading: 
