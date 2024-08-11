@@ -8,6 +8,7 @@
 :loading: [QOL] **Feeder Minion** Level three price has been increased from **$100,000** to **$250,000**
 :loading: [QOL] **Feeder Minion** Hunger has been disabled on **Level Three**
 :loading: [QOL] **Minions** base hunger has been increased to match **Healer Minion**
+
 :loading: [QOL] Added **Netherite Block** as **Island Valued** block
 :loading: [QOL] Re-Enabled **Cactus** item stacking to improve client side performance
 :loading: [QOL] String is now a buyable item in **"/shop"** drops category
