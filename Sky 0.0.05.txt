@@ -10,7 +10,7 @@
 :loading: **Ice Rank** and **Baron Rankup** has the ability to upgrade **Homes Vaults**
 :loading: **Water Rank** and **Mage Rankup** has the ability to upgrade **Player Vaults**
 :loading: You are now able to **Upgrade** your **homes limit**
-:loading: 
+:loading: Cactus price has been changed from **$2.2** to **$1.75**
 :loading: 
 :loading: 
 :loading: 
