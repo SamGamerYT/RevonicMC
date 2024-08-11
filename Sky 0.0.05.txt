@@ -10,7 +10,7 @@
 :loading: [QOL] **Minions** base hunger has been increased to match **Healer Minion**
 :loading: [QOL] Added **Netherite Block** as **Island Valued** block
 :loading: [QOL] Re-Enabled **Cactus** item stacking to improve client side performance
-:loading: [QOL] 
+:loading: [QOL] String is now a buyable item in **"/shop"** drops category
 :loading: [QOL] 
 :loading: [QOL] 
 
