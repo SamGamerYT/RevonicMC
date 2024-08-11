@@ -11,7 +11,7 @@
 :loading: [QOL] Added **Netherite Block** as **Island Valued** block
 :loading: [QOL] Re-Enabled **Cactus** item stacking to improve client side performance
 :loading: [QOL] String is now a buyable item in **"/shop"** drops category
-:loading: [QOL] 
+:loading: [QOL] Added **Amethyst Shard** in **"/shop"** ores category
 :loading: [QOL] 
 
 :loading: **Ice Rank** and **Baron Rankup** has the ability to upgrade **Homes Vaults**
