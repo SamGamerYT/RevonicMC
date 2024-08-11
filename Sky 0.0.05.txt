@@ -10,6 +10,10 @@
 :loading: [QOL] **Minions** base hunger has been increased to match **Healer Minion**
 :loading: [QOL] Added **Netherite Block** as **Island Valued** block
 :loading: [QOL] Re-Enabled **Cactus** item stacking to improve client side performance
+:loading: [QOL] 
+:loading: [QOL] 
+:loading: [QOL] 
+
 :loading: **Ice Rank** and **Baron Rankup** has the ability to upgrade **Homes Vaults**
 :loading: **Water Rank** and **Mage Rankup** has the ability to upgrade **Player Vaults**
 :loading: You are now able to **Upgrade** your **homes limit**
