@@ -4,7 +4,7 @@
 *(Special thanks to YuxuFG)*
 :loading: [QOL] Created Toddler, Novice, Rookie, Regular Rank kits
 
-:loading: [QOL] 
+:loading: [QOL] **Minions Teleportation** fee has been changed from **$100** to **$0**
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: **Ice Rank** and **Baron Rankup** has the ability to upgrade **Homes Vaults**
