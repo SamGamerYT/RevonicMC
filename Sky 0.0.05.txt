@@ -1,8 +1,4 @@
 **Patch/Changes 0.0.05** *(Skyblock)*
-:loading: [QOL] 
-
-*(Special thanks to YuxuFG)*
-:loading: [QOL] Created Toddler, Novice, Rookie, Regular Rank kits
 
 :loading: [QOL] **Minions Teleportation** fee has been changed from **$100** to **$0**
 :loading: [QOL] **Feeder Minion** Level three price has been increased from **$100,000** to **$250,000**
@@ -14,6 +10,9 @@
 :loading: [QOL] String is now a buyable item in **"/shop"** drops category
 :loading: [QOL] Added **Amethyst Shard** in **"/shop"** ores category
 :loading: [QOL] 
+
+*(Special thanks to YuxuFG)*
+:loading: [QOL] Created Toddler, Novice, Rookie, Regular Rank kits
 
 :loading: **Ice Rank** and **Baron Rankup** has the ability to upgrade **Homes Vaults**
 :loading: **Water Rank** and **Mage Rankup** has the ability to upgrade **Player Vaults**
