@@ -10,7 +10,7 @@
 :loading: [QOL] 
 :loading: [QOL] 
 
-:loading: 
+:loading: Players can no longer sell their **Guide Menu** in **Auction House**
 :loading: 
 :loading: 
 :loading: 
