@@ -1,6 +1,6 @@
 **Patch/Changes 0.0.06** *(Skyblock)*
 
-:loading: [QOL] 
+:loading: [QOL] Added **Piglin Spawn Egg** within **AFK Trader**
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
