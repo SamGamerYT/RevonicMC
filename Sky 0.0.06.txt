@@ -1,7 +1,7 @@
 **Patch/Changes 0.0.06** *(Skyblock)*
 
 :loading: [QOL] Added **Piglin Spawn Egg** within **AFK Trader**
-:loading: [QOL] 
+:loading: [QOL] Added **Donator Tag** in TAB List for Java Players
 :loading: [QOL] 
 :loading: [QOL] 
 
