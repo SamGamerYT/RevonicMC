@@ -5,17 +5,6 @@
 :loading: [QOL] Added **Mushroom Spawn Egg** in Farmer Trader
 :loading: [QOL] Heavily increased **Mob Spawn Rate**
 
-:loading: [QOL] 
-:loading: [QOL] 
-:loading: [QOL] 
-:loading: [QOL] 
-
 :loading: Players can no longer sell their **Guide Menu** in **Auction House**
-:loading: 
-:loading: 
-:loading: 
  
 **[@Changelogs]**
-
-*(Special thanks to YuxuFG)*
-:loading: [QOL] 
