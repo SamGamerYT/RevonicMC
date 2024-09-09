@@ -1,6 +1,7 @@
 **Patch/Changes 0.0.07** *(Skyblock)*
 
-:loading: [QOL] 
+:loading: [QOL] Added a way to disable **Island Border** **"/is border"** Divine Rank Perk
+:loading: [QOL] Allowed **Divine Rankup** to change **Island Border Colour**
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
