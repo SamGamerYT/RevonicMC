@@ -2,8 +2,8 @@
 
 :loading: [QOL] Added **Piglin Spawn Egg** within **AFK Trader**
 :loading: [QOL] Added **Donator Tag** in TAB List for Java Players
-:loading: [QOL] 
-:loading: [QOL] 
+:loading: [QOL] Added **Mushroom Spawn Egg** in Farmer Trader
+:loading: [QOL] Heavily increased **Mob Spawn Rate**
 
 :loading: [QOL] 
 :loading: [QOL] 
