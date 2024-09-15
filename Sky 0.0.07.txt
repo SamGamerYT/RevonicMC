@@ -6,6 +6,3 @@
 :loading: Sell Pricings within **Seller Minions** will be as accurate as possible.
  
 **[@Changelogs]**
-
-*(Special thanks to YuxuFG)*
-:loading: [QOL] 
