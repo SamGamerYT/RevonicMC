@@ -2,19 +2,8 @@
 
 :loading: [QOL] Added a way to disable **Island Border** **"/is border"** Divine Rank Perk
 :loading: [QOL] Allowed **Divine Rankup** to change **Island Border Colour**
-:loading: [QOL] **Seller Minions** will no longer sell unsellable items
-:loading: [QOL] 
-:loading: [QOL] 
-
-:loading: [QOL] 
-:loading: [QOL] 
-:loading: [QOL] 
-:loading: [QOL] 
-
-:loading: 
-:loading: 
-:loading: 
-:loading: 
+:loading: **Seller Minions** will no longer sell unsellable items
+:loading: Sell Pricings within **Seller Minions** will be as accurate as possible.
  
 **[@Changelogs]**
 
