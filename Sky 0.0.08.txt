@@ -8,7 +8,7 @@
 :loading: Fixed **Island Starter Sign** showing **new island text** twice
 :loading: Assigned **/island** layout according to their alphabet name.
 :loading: Dependencies Updates [09/17/2024]
-:loading: 
+:loading: Removed extra **"/is missions"** and fixed some mission errors
 :loading: 
 :loading: 
 :loading: 
