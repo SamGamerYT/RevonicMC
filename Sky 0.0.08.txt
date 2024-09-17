@@ -6,6 +6,10 @@
 :loading: There is now custom **Nether Island** system
 :loading: Fixed **Players** getting kicked from the server randomly
 :loading: Fixed **Island Starter Sign** showing **new island text** twice
+:loading: Assigned **/island** layout according to their alphabet name.
+:loading: 
+:loading: 
+:loading: 
 :loading: 
  
 **[@Changelogs]**
