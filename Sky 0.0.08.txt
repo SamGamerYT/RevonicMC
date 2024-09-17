@@ -1,7 +1,7 @@
 **Patch/Changes 0.0.08** *(Skyblock)*
 
 :loading: [QOL] 
-:loading: [QOL] 
+:loading: [QOL] Added **Elevator** System + their showcase at **"/spawn"**
 :loading: Fixed Players not being able to silk touch their spawners
 :loading: There is now custom **Nether Island** system
 :loading: 
