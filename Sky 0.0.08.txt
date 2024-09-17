@@ -1,6 +1,5 @@
 **Patch/Changes 0.0.08** *(Skyblock)*
 
-:loading: [QOL] 
 :loading: [QOL] Added **Elevator** System + their showcase at **"/spawn"**
 :loading: Fixed Players not being able to silk touch their spawners
 :loading: There is now custom **Nether Island** system
@@ -9,9 +8,6 @@
 :loading: Assigned **/island** layout according to their alphabet name.
 :loading: Dependencies Updates [09/17/2024]
 :loading: Removed extra **"/is missions"** and fixed some mission errors
-:loading: 
-:loading: 
-:loading: 
 
  
 **[@Changelogs]**
