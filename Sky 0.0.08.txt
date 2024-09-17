@@ -7,10 +7,12 @@
 :loading: Fixed **Players** getting kicked from the server randomly
 :loading: Fixed **Island Starter Sign** showing **new island text** twice
 :loading: Assigned **/island** layout according to their alphabet name.
+:loading: Dependencies Updates [09/17/2024]
 :loading: 
 :loading: 
 :loading: 
 :loading: 
+
  
 **[@Changelogs]**
 
