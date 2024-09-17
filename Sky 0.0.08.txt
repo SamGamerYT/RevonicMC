@@ -2,8 +2,8 @@
 
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: 
-:loading: 
+:loading: Fixed Players not being able to silk touch their spawners
+:loading: There is now custom **Nether Island** system
 :loading: 
 :loading: 
 :loading: 
