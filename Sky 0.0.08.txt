@@ -9,8 +9,4 @@
 :loading: Dependencies Updates [09/17/2024]
 :loading: Removed extra **"/is missions"** and fixed some mission errors
 
- 
 **[@Changelogs]**
-
-*(Special thanks to YuxuFG)*
-:loading: [QOL] 
