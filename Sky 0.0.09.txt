@@ -4,8 +4,8 @@
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
-:loading: 
-:loading: 
+:loading: Updated to Newer **Bedrock Edition**
+:loading: Fixed **AFK ZONE** Bug with experience levels.
 :loading: 
 :loading: 
 :loading: 
