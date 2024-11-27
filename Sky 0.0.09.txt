@@ -1,6 +1,6 @@
 **Patch/Changes 0.0.09** *(Skyblock)*
 
-:loading: [QOL] 
+:loading: [QOL] Allowed players to modify/move their inventory guide book.
 :loading: [QOL] 
 :loading: [QOL] 
 :loading: [QOL] 
