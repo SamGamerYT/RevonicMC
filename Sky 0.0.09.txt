@@ -7,5 +7,3 @@
 
  
 **[@Changelogs]**
-
-*(Special thanks to YuxuFG)*
