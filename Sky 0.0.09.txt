@@ -6,7 +6,7 @@
 :loading: [QOL] 
 :loading: Updated to Newer **Bedrock Edition**
 :loading: Fixed **AFK ZONE** Bug with experience levels.
-:loading: 
+:loading: Disallowed players from selling their personal backup in **"/ah"**
 :loading: 
 :loading: 
 :loading: 
